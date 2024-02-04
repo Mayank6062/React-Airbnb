@@ -2,8 +2,7 @@
 
 Features:
 
-Tailwind design
-
+Tailwind design,
 Tailwind animations and effects
 
 Full responsiveness
