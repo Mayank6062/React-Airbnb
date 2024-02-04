@@ -31,10 +31,11 @@ How to handle relations between Server and Child components!
 Prerequisites
 Node version 14.x
 
-Cloning the repository
+Cloning the repository ------------>
+
 git clone 
 
-Install packages
+Install packages   ---------->
 npm i
 
 Setup .env file
