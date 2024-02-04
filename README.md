@@ -38,7 +38,7 @@ git clone
 Install packages   ---------->
 npm i
 
-Setup .env file
+Setup .env file ------------>
 DATABASE_URL=
 GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
