@@ -3,8 +3,11 @@
 Features:
 
 Tailwind design
+
 Tailwind animations and effects
+
 Full responsiveness
+
 Credential authentication
 Google authentication
 Github authentication
