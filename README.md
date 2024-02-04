@@ -78,7 +78,9 @@ GITHUB_SECRET=
 NEXTAUTH_SECRET=
 
 Setup Prisma
+
 npx prisma db push
 
 Start the app
+
 npm run dev
