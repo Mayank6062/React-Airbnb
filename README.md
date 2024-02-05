@@ -2,7 +2,7 @@
 
 Features:
 
-Tailwind design,
+Tailwind design,Html,Next.js,Mongodb database,Ts..
 
 Tailwind animations and effects
 
@@ -34,8 +34,6 @@ Owner reservation cancellation
 
 Creation and deletion of properties
 
-Pricing calculation
-
 Advanced search algorithm by category, date range, map location, number of guests, rooms and bathrooms
 
 For example we will filter out properties that have a reservation in your desired date range to travel
@@ -46,16 +44,12 @@ Shareable URL filters
 
 Lets say you select a category, location and date range, you will be able to share URL with a logged out friend in another browser and they will see the same results
 
-How to write POST and DELETE routes in route handlers (app/api)
+POST and DELETE routes in route handlers (app/api)
 
-How to fetch data in server react components by directly accessing database (WITHOUT API!)
+fetch data in server react components by directly accessing database (WITHOUT API!)
 
-How to handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
+handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
 
-How to handle relations between Server and Child components!
-
-Prerequisites
-Node version 14.x
 
 Cloning the repository ------------>
 git clone https://github.com/Mayank6062/React-Airbnb.git
