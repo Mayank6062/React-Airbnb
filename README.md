@@ -10,6 +10,13 @@ Full responsiveness
 
 Credential authentication
 
+you can logged in bu email-mayanksoni1248@gmail.com
+pass--->1234
+
+or
+
+you can ragister in website or signup then logged in manually
+
 Google authentication
 
 Github authentication
