@@ -48,7 +48,7 @@ Lets say you select a category, location and date range, you will be able to sha
 
 How to write POST and DELETE routes in route handlers (app/api)
 
-How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
+How to fetch data in server react components by directly accessing database (WITHOUT API!)
 
 How to handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
 
@@ -77,10 +77,10 @@ GITHUB_SECRET=
 
 NEXTAUTH_SECRET=
 
-Setup Prisma
+Setup Prisma --------->
 
 npx prisma db push
 
-Start the app
+Start the app ---------->
 
 npm run dev
